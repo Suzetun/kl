@@ -1,0 +1,60 @@
+			#header {
+				background-color: red;
+				text-align: center;
+				font-size: 50px;
+				margin-top: 50px;
+			}
+			#nav {
+				background-color: yellow;
+				text-align: center;
+				margin-top: 30px;
+				font-size: 30px;
+			}
+			#poster { text-align: center;
+			      margin-top: 30px; }
+			#simple {
+				text-align: center;
+				margin-top: 10px;
+				margin-bottom: 30px;
+			}
+			#nav2 {
+				  background-color: green;
+				  text-align: center;
+			      margin-top: 50px;
+			      font-size: 40px;
+				}			
+			#photo1 {
+				width:20px;
+				float: left;
+				margin-top: 50px;
+				margin-left: 100px;
+	            margin-bottom: 30px;}
+	        #article1 { margin-top: 100px; }
+	        #photo2 {
+	        	float: right;
+	        	margin-top: 150px;
+	        	margin-right: 100px;
+	        }
+	        #article2 {
+	        	margin-top: 250px;
+	        	margin-left: 250px;}
+	        #nav3 {
+	        	  background-color: red;
+	        	  text-align: center;
+			      margin-top: 120px;
+			      font-size: 40px;
+	        }
+	        #photo3 {text-align: center;
+			      margin-top: 30px;}
+			#article3{ text-align: center;
+				margin-top: 10px;
+			}
+			#nav4 {
+				background-color: lightblue;
+				text-align: center;
+				margin-top: 60px;
+				font-size: 40px;
+			}
+			#article7 { color: red; }
+			#article8 {color: blue;
+				font-size: 20px;}
